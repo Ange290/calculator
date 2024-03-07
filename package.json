@@ -1,0 +1,20 @@
+{
+  "name": "ange-basic-calculator",
+  "version": "1.0.9",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "addition",
+    "substraction",
+    "divide"
+  ],
+  "author": "Ange Uwizera",
+  "license": "MIT",
+  "description": "basic calculator for javascript users",
+  "dependencies": {
+    "eric-basic-calculator": "^1.0.1",
+    "uwitonze-basic-calculator": "^1.0.0"
+  }
+}
